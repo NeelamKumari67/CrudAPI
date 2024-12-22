@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7IprvEKqO35ZoGeVrku7G+xTbdrY2rs3dBWGv5j3O6o=",
+  "Source": "EmployeeCrudAPI",
+  "BasePath": "_content/EmployeeCrudAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
